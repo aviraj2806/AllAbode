@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">All Abode</string>
+    <string name="not_registered_yet">Not <font color="#dc4e41">Registered</font> Yet ?</string>
+    <string name="quote"><font color="#dc4e42">Home</font> is where our <font color="#dc4e41">story</font> begins…</string>
+    <string name="pref_file">All Abode Pref File</string>
+    <string name="reg_message">Hola,\nYou are only <font color="#dc4e41">one step</font> away from\n getting your <font color="#dc4e41">desired house.</font></string>
+
+    <string-array name="type">
+        <item>Select Type</item>
+        <item>Student</item>
+        <item>Landlord</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="total_flats_1">Total Flats : 1</string>
+    <string name="total_requests_0">Total Requests : 0</string>
+    <string name="student_request">Student <font color="#dc4e41">Request :</font></string>
+    <string name="your_request">Your <font color="#dc4e41">Request :</font></string>
+    <string name="change_city">Change <font color="#dc4e41">City</font></string>
+    <string name="add_property">Add <font color="#dc4e41">Property</font></string>
+    <string name="extra_details">Extra <font color="#dc4e41">Details</font></string>
+    <string name="no">No more <font color="#dc4e41">request</font> to show.\nTry again after some time or change city.</string>
+
+</resources>

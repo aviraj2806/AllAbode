@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "581820169414",
+    "firebase_url": "https://all-abode.firebaseio.com",
+    "project_id": "all-abode",
+    "storage_bucket": "all-abode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581820169414:android:a72ba3e4c44b01526bebc7",
+        "android_client_info": {
+          "package_name": "com.mp2.allabode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581820169414-hjdrn2nhf53cau7at3k3poe5f7vdabj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mp2.allabode",
+            "certificate_hash": "8ed3390aafccd1d6ef727bc74ab273031272a11a"
+          }
+        },
+        {
+          "client_id": "581820169414-rgv70kd6dpnm3d5hpu9kqc0eca2c0cn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbjBdwyQfJLhbjD6ocHguPqZEYO5thfA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581820169414-rgv70kd6dpnm3d5hpu9kqc0eca2c0cn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
